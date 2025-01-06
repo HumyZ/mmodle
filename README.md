@@ -9,5 +9,5 @@ npm install both the frontend and the backend
 		npm start
         (by default, runs on http://localhost:8230/)
 	in the backend run
-		nodejs wordle_backend.js
+		node wordle_backend.js
         (by default, runs on http://localhost:8231/)
