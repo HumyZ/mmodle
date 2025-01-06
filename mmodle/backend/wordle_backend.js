@@ -22,7 +22,7 @@ const Wordle = require("./model.js");
 const cookieParser = require('cookie-parser');
 const WebSocketServer = require('ws').Server;
 
-const wordsFilePath = './words.5.txt';
+const wordsFilePath = './words.txt';
 
 let sharedWordle;
 let sharedWordleTarget;
